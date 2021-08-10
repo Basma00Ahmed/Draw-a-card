@@ -1,0 +1,28 @@
+header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("IMG/Header.png");
+  height: 18vh;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  color: rgba(252, 252, 252, 0.959);
+  text-shadow: 2px 2px black;
+  background-color: #562b4c;
+  font-family: serif;
+  height: 30px;
+  font-weight: bolder;
+}
+.container {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.h3 {
+  color: #562b4c;
+}
+button {
+  color: rgba(252, 252, 252, 0.959) !important;
+  background-color: #562b4c !important;
+}
